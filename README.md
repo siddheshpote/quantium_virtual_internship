@@ -1,5 +1,4 @@
-# Quantium_Virtual_Internship
-Quantium Data Analytics Virtual Internship
+# Quantium Data Analytics Virtual Experience Program.
 
 ## Who is Quantium?
 Quantium is leading data science and AI Firm, founded in Australia in 2002 and offers a 17-year track record of innovation in data science. Quantium combines the best of human and artificial intelligence to power possibilities for individuals, organisations, and society.
@@ -51,7 +50,7 @@ install.packages("readr")
 Click on the following [link](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program) and follow the steps mentioned. :grinning:
 
 ## Certificate of completion 
-[Here](https://www.linkedin.com/posts/siddhesh-pote-438a9a174_quantium-virtual-internship-completion-certificate-activity-6747564109501362176-cJXc) ids the link to my Linkedin profile to view the certificate.
+[Here](https://www.linkedin.com/posts/siddhesh-pote-438a9a174_quantium-virtual-internship-completion-certificate-activity-6747564109501362176-cJXc) is the link to my Linkedin profile to view the certificate.
 
 
 
