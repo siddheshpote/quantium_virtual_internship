@@ -50,11 +50,8 @@ install.packages("readr")
 ## How to apply for the internship
 Click on the following [link](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program) and follow the steps mentioned. :grinning:
 
-## Certificate of Completetion
-[my certification](file:///C:/Users/Siddhesha/Desktop/Data%20science%20by%20JHU/quantium_completion_certificate.pdf)
-
-
-
+## Certificate of completion 
+[Here](https://www.linkedin.com/posts/siddhesh-pote-438a9a174_quantium-virtual-internship-completion-certificate-activity-6747564109501362176-cJXc) ids the link to my Linkedin profile to view the certificate.
 
 
 
