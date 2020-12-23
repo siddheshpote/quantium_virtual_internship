@@ -51,7 +51,7 @@ install.packages("readr")
 Click on the following [link](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program) and follow the steps mentioned. :grinning:
 
 ## Certificate of Completetion
-![my certification](C:/Users/Siddhesha/Desktop/Data science by JHU/quantium_completion_certificate.pdf)
+[my certification](C:/Users/Siddhesha/Desktop/Data science by JHU/quantium_completion_certificate.pdf)
 
 
 
