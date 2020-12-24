@@ -37,6 +37,7 @@ install.packages("readr")
 **Thus, the Category Manager may want to increase the category’s performance by off-locating some Tyrrells and smaller packs of chips in discretionary space near segments where young singles and couples frequent more often to increase visibility and impulse behavior.**
 
 ## Task 2
+### Hers's the dataset used for task 2 analysis - (QVI_data)[https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/32A6DqtsbF7LbKdcq/QVI_data.csv]
 - Create a measure to compare different control stores to each of the trial stores to do this, write a function to reduce having to re-do the analysis for each trial store. 
 - Consider using Pearson correlations or a metric such as a magnitude distance e.g., 1- (Observed distance – minimum distance)/(Maximum distance – minimum distance) as a measure. + Compare each trial and control pair during the trial period.
 
